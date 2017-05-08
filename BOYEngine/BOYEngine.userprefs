@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Editor\NodeEditorWindow.cs">
+    <Files>
+      <File FileName="Assets\Editor\NodeEditorWindow.cs" Line="28" Column="3" />
+      <File FileName="Assets\Editor\NodeExample.cs" Line="40" Column="83" />
+      <File FileName="Assets\Editor\NodeBaseClass.cs" Line="34" Column="70" />
+      <File FileName="Assets\Editor\StitchNode.cs" Line="32" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
